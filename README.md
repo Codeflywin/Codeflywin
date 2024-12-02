@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Codeflywin
-- 👀 I’m interested in Computer Science, Programming Cyber and Network Security
+- 👀 Computer Science, Programming, Cyber and Network Security
 - 🌱 I’m currently learning Google Cybersecurity Certification 
 - 💞️ I’m looking to collaborate on Google Cybersecurity
 - 📫 How to reach me codeflywin@gmail.com
