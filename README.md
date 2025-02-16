@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Codeflywin
-- 🧑‍🎓 Computer Science and Internet Systems Security Major at University of Illinois - Springfield
+- 🧑‍🎓 Computer Science and Information Systems Security Major at University of Illinois - Springfield
 - 👀 Computer Science, Programming, Cyber and Network Security
 - 🌱 I’m currently learning Google Cybersecurity Certification 
 - 💞️ I’m looking to collaborate on Google Cybersecurity
